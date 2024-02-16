@@ -1,3 +1,4 @@
 .odd {background-color: rgb(255,129,129); font-family: Verdana,"DejaVu Sans",sans-serif;}
 #test {color:#0000FF; font-size: 36px;}
 .special {font-size: 24px;}
+#test2 {background-color: hsl(150,100%,50%); font-size:24px; font-weight: bold;}
